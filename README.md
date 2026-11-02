@@ -1,4 +1,4 @@
-# coupang-dataset-sample
+# Coupang dataset sample
 <h2>A sample dataset of 1000 Coupang products</h2>
 
 <a href="https://brightdata.com/products/datasets/coupang">
