@@ -45,8 +45,6 @@ Our Coupang Products (public data) dataset includes over **6,900,000 product rec
 
 <a href="https://brightdata.com/products/datasets/coupang">Get the full Coupang dataset</a>
 
-[![Dataset promotions](https://github.com/luminati-io/coupang-dataset-samples/blob/main/dataset-promotions.png)](https://brightdata.com/products/datasets/coupang)
-
 ## Use cases
 
 ### Discount and promotion analysis
