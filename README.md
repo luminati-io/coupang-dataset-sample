@@ -1,7 +1,9 @@
 # coupang-dataset-sample
 <h2>A sample dataset of 1000 Coupang products</h2>
 
-[![Coupang datasets](https://github.com/luminati-io/coupang-dataset-samples.png)](https://brightdata.com/products/datasets/coupang)
+<a href="https://brightdata.com/products/datasets/coupang">
+    <img src="https://github.com/luminati-io/coupang-dataset-samples/blob/main/datasets-image.png" alt="Coupang datasets" />
+</a>
 
 Coupang products dataset extracted using the Bright Data API.
 
